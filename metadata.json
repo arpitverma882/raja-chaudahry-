@@ -1,0 +1,6 @@
+{
+  "name": "AdCraft Studio - AI & Stock Banner Ad Generator",
+  "description": "Generate studio-quality banner ads across all standard IAB and social sizes from product descriptions and URLs, featuring Gemini 3 Pro/Flash image generation and commercial stock photo library integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
